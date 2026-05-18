@@ -58,7 +58,7 @@ binance-trading-bot/
 ## 1. Clone Repository
 
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/jencym634-sudo/binance-futures-trading-bot
 cd binance-trading-bot
 ```
 
